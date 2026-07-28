@@ -1,10 +1,6 @@
 <!-- 🖼️ Add your banner here -->
 <!-- <img src="YOUR_BANNER_URL" width="100%"/> -->
 
-<h1 align="center">Hi, I'm Om Pandey</h1>
-<h3 align="center">Data Scientist | Machine Learning Enthusiast</h3>
-<p align="center"><i>"To become a star, you must burn."</i></p>
-
 <p align="center">
   <a href="https://github.com/om-is-inert">
     <img src="https://komarev.com/ghpvc/?username=om-is-inert&label=Profile%20Views&color=000000&style=for-the-badge" alt="om-is-inert" />
@@ -50,18 +46,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=om-is-inert&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-is-inert&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-is-inert&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&currStreakNum=ffffff&sideNums=cccccc&dates=888888" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
