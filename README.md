@@ -1,13 +1,5 @@
 <!-- 🖼️ Add your banner here -->
-<!-- <img src="YOUR_BANNER_URL" width="100%"/> -->
-
-<p align="center">
-  <a href="https://github.com/om-is-inert">
-    <img src="https://komarev.com/ghpvc/?username=om-is-inert&label=Profile%20Views&color=000000&style=for-the-badge" alt="om-is-inert" />
-  </a>
-</p>
-
----
+ <img src="" width="100%"/> 
 
 ### 🚀 About Me
 
