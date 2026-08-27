@@ -7,7 +7,7 @@
 -  Learning more about applied machine learning and satellite data analysis
 -  Studying at **IIT Madras**
 -  Ask me about **Data Science, Machine Learning, Python**
--  Reach me at: **om4096263@gmail.com**
+-  Reach me at: **noble.is.at.work@gmail.com**
 
 ---
 
