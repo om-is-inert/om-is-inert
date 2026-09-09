@@ -1,13 +1,14 @@
 <!-- 🖼️ Add your banner here -->
- <img src="Picsart_26-07-28_23-21-47-313.jpg" width="100%"/> 
+ <img src="Picsart_26-09-08_20-00-03-371.jpg" width="100%"/> 
 
 ###  About Me
+Curious by default.
+Builder by choice.
+Perfectionist when it matters.
 
--  I'm currently working on **ML-driven safety and Geospatial intelligence tools**
--  Learning more about applied machine learning and satellite data analysis
--  Studying at **IIT Madras**
--  Ask me about **Data Science, Machine Learning, Python**
--  Reach me at: **noble.is.at.work@gmail.com**
+Exploring AI/ML, data, software & design, and whatever interesting problem comes next.
+
+Make it work. Make it better. Then question why it works.
 
 <p align="left">
   <a href="mailto:noble.is.at.work@gmail.com">
