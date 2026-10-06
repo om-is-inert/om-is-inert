@@ -1,5 +1,5 @@
 <!-- 🖼️ Add your banner here -->
- <img src="Picsart_26-09-08_20-00-03-371.jpg" width="100%"/> 
+ <img src="22c390a6a7b81fd8289a8527144a163e.jpg" width="100%"/> 
 
 ###  About Me
 Curious by default.
